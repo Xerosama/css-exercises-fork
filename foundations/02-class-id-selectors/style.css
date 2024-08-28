@@ -1,0 +1,20 @@
+.odd-num{
+    background-color: rgb(250, 111, 111);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#sun{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+.special{
+    font-size: 24px;
+
+}
+#moon{
+    background-color: rgb(66, 243, 66);
+    font-weight: bold;
+    font-size: 24px;
+    
+}
